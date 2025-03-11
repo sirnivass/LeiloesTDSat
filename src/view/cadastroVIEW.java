@@ -1,3 +1,10 @@
+package view;
+
+
+import dao.ProdutosDAO;
+import dto.ProdutosDTO;
+import view.listagemVIEW;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
